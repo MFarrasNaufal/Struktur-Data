@@ -1,0 +1,14 @@
+x = [14, 10, 99]
+z = [12, 15, 18]
+
+# Menghitung jumlah nilai semua array
+
+xTotal = sum(x)
+zTotal = sum(z)
+jumlah = xTotal + zTotal
+print("Jumlah Nilai Kedua Array :", jumlah)
+
+# Menggabungkan data dari kedua array
+
+print("Gabungan Array")
+print(x + z)
